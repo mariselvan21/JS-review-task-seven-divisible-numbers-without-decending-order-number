@@ -1,0 +1,1 @@
+# JS-review-task-seven-divisible-numbers-without-decending-order-number
